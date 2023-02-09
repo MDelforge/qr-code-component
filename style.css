@@ -1,21 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&family=Outfit:wght@400;700&display=swap");
 
+
+
 body{
 
 background-color:hsl(212, 45%, 89%);
 font-family: "Outfit", sans-serif;
-
 }
 
 .box{
 
 max-width: 275px;
-height: 400px;
 background-color: hsl(0, 0%, 100%);
 display: flex;
 justify-content: center;
 margin:  125px auto;
-padding: 20px 2px 20px 2px;
+padding: 20px ;
 border-radius: 15px;
 flex-direction: column;
 box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
@@ -24,8 +24,7 @@ box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
 
 img{
 
-    width: 250px;
-    height: 250px;
+    max-width: 100%
     margin: auto;
     border-radius: 15px;
   
@@ -46,6 +45,9 @@ p{
     font-weight: 400;
     color: hsl(210, 7%, 45%);
 }
+
+
+
 
 
 
