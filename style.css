@@ -9,13 +9,13 @@ font-family: "Outfit", sans-serif;
 
 .box{
 
-max-width: 300px;
-height: 450px;
+max-width: 275px;
+height: 400px;
 background-color: hsl(0, 0%, 100%);
 display: flex;
 justify-content: center;
 margin:  125px auto;
-padding: 15px 2px 20px 2px;
+padding: 20px 2px 20px 2px;
 border-radius: 15px;
 flex-direction: column;
 box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
