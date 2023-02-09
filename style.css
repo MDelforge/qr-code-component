@@ -9,8 +9,8 @@ font-family: "Outfit", sans-serif;
 
 .box{
 
-max-width: 275px;
-height: 400px;
+max-width: 300px;
+height: 450px;
 background-color: hsl(0, 0%, 100%);
 display: flex;
 justify-content: center;
